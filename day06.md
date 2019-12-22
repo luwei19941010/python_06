@@ -35,7 +35,7 @@
 ###### dict
 
 - keys/values/items
-- get
+  - get
 
 ```
 info={'k1':'v1','k2':'v2'}
